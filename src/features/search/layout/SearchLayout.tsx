@@ -18,7 +18,7 @@ import Modal from 'components/atom/Modal'
 import Table from 'components/atom/Table'
 import List from 'components/atom/List/index'
 
-import SearchForm from 'features/search/form/SerachForm'
+import SearchForm from 'features/search/form/SearchForm'
 import Main from 'features/search/components/styled/Main'
 
 const SearchLayout = () => {
